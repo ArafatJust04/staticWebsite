@@ -1,2 +1,2 @@
-# Arafat's-China-Bistro-
+# Arafat's-China-Bistro
 displaying food 
